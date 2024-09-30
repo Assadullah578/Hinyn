@@ -1,0 +1,1 @@
+export const origin = "https://murmuring-everglades-65320-580682e5248e.herokuapp.com/api"

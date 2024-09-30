@@ -1,0 +1,88 @@
+const cards = [
+  {
+    id: 1,
+    name: 'John-doe',
+    work: 'Photographer',
+    location: 'Dubai, United Arab Emirates',
+    imgsrc: '/assets/img/avatars/img-avatar1.png',
+  },
+  {
+    id: 2,
+    name: 'Jack',
+    work: 'Photographer',
+    location: 'Dubai, United Arab Emirates',
+    imgsrc: '/assets/img/avatars/img-avatar8.png',
+  },
+  {
+    id: 3,
+    name: 'Dawson',
+    work: 'Photographer',
+    location: 'Dubai, United Arab Emirates',
+    imgsrc: '/assets/img/avatars/img-avatar5.png',
+  },
+  {
+    id: 4,
+    name: 'Samantha',
+    work: 'Hairdresser',
+    location: 'Dubai, United Arab Emirates',
+    imgsrc: '/assets/img/avatars/img-avatar2.png',
+  },
+  {
+    id: 5,
+    name: 'Stokes',
+    work: 'Model',
+    location: 'Dubai, United Arab Emirates',
+    imgsrc: '/assets/img/avatars/img-avatar4.png',
+  },
+  {
+    id: 6,
+    name: 'Rogers',
+    work: 'Videographer',
+    location: 'Dubai, United Arab Emirates',
+    imgsrc: '/assets/img/avatars/img-avatar6.png',
+  },
+  {
+    id: 7,
+    name: 'John',
+    work: 'Photographer',
+    location: 'Dubai, United Arab Emirates',
+    imgsrc: '/assets/img/avatars/img-avatar7.png',
+  },
+  {
+    id: 8,
+    name: 'John-doe',
+    work: 'Photographer',
+    location: 'Dubai, United Arab Emirates',
+    imgsrc: '/assets/img/avatars/img-avatar9.png',
+  },
+  {
+    id: 9,
+    name: 'John-doe',
+    work: 'Photographer',
+    location: 'Dubai, United Arab Emirates',
+    imgsrc: '/assets/img/avatars/img-avatar1.png',
+  },
+  {
+    id: 10,
+    name: 'John-doe',
+    work: 'Photographer',
+    location: 'Dubai, United Arab Emirates',
+    imgsrc: '/assets/img/avatars/img-avatar1.png',
+  },
+  {
+    id: 11,
+    name: 'John-doe',
+    work: 'Photographer',
+    location: 'Dubai, United Arab Emirates',
+    imgsrc: '/assets/img/avatars/img-avatar1.png',
+  },
+  {
+    id: 12,
+    name: 'John-doe',
+    work: 'Photographer',
+    location: 'Dubai, United Arab Emirates',
+    imgsrc: '/assets/img/avatars/img-avatar1.png',
+  },
+  // Add more cards here if needed
+];
+export default cards;
