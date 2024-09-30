@@ -1,8 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/Hinyn', // Your repository name
-  assetPrefix: '/Hinyn/',
-  trailingSlash: true,
+  output: 'export',
   reactStrictMode: true,
   swcMinify: true,
   images: {
